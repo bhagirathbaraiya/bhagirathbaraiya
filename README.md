@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhagirath</h1>
 <h3 align="center">A Web developer.</h3>
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **React, Node** 
 
 - 👨‍💻 All of my projects are available at [https://bhagirathbaraiya.netlify.app/](https://bhagirathbaraiya.netlify.app/)
 
