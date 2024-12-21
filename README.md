@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **React, Node** 
 
-- 👨‍💻 All of my projects are available at [https://bhagirathbaraiya.netlify.app/](https://bhagirathbaraiya.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bhagirathbaraiya.me/](https://bhagirathbaraiya.me/)
 
 - 📫 How to reach me **bhagirathbaraiya.dev@gmail.com**
+- 📫 How to reach me **bhagirath@bhagirathbaraiya.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
